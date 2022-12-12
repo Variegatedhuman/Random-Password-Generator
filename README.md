@@ -1,5 +1,11 @@
 #Random Password Generator
+
 Development and deployment of a Random Password Generator that allows users to specify key criteria for generating a customly designed random password.
+
+
+##Project Goal
+
+Project fulfills the following criteria:
 
 ## Acceptance Criteria
 
@@ -33,21 +39,31 @@ WHEN the password is generated
 
 THEN the password is either displayed in an alert or written to the page
 
+##Goal Fulfillment
+
+When "Generate Password" button is clicked the user is presented with a series of prompts to specify password criteria
+
+User is only allowed to create a password equal or greater than 8 characters and less than or equal to 128 characters
+
+User is given the option to choose from a variety of password options; such as numbers, symbols, uppercase letter, and lowercase letters
+
+A minimum of one character type is required to generate a password, otherwise user is presented with an alert regarding invalid criteria
+
+When user is finished deciding password criteria then they are presented with a new, randomly genrated, password directly on the page
 
 
-Project Goal
-Project fulfills the following criteria:
 
-Screenshot of deployed site
+##Screenshot of deployed site
+![Adam's Random Password Generator](assets/Deployed page.png)
 
-Link to deployed site
+##Link to deployed site
 https://variegatedhuman.github.io/Random-Password-Generator/
 
-Authors and acknowledgment
+##Authors and acknowledgment
 Adam Michell using Triology Bootcamp's starter code
 
-License
+##License
 MIT License
 
-Project status
+##Project status
 Complete
