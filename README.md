@@ -54,7 +54,7 @@ When user is finished deciding password criteria then they are presented with a 
 
 
 ## Screenshot of deployed site
-![Adam's Random Password Generator](assets/Deployed page.png)
+![Adam's Random Password Generator](assets/Deployed_page.png)
 
 ## Link to deployed site
 https://variegatedhuman.github.io/Random-Password-Generator/
