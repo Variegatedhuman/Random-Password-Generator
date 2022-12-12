@@ -7,8 +7,6 @@ Development and deployment of a Random Password Generator that allows users to s
 
 Project fulfills the following criteria:
 
-## Acceptance Criteria
-
 GIVEN I need a new, secure password
 
 WHEN I click the button to generate a password
@@ -54,7 +52,7 @@ When user is finished deciding password criteria then they are presented with a 
 
 
 ## Screenshot of deployed site
-![Adam's Random Password Generator](assets/Deployed-page.png)
+![Adam's Random Password Generator](assets/Deployed.png)
 
 ## Link to deployed site
 https://variegatedhuman.github.io/Random-Password-Generator/
